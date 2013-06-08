@@ -9,7 +9,7 @@ You're required to print in ascending order.
 
 # Solution :
 ============
-Well inorder travesal will sort out the data inorder for me :)
+Well inorder travesal will sort out the data in ascending order for me :)
 
 # P/s :
 =======
